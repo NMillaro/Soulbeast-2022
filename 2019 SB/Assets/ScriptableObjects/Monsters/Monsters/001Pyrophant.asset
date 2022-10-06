@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd6044d84b446847ba3a3456cf88df9, type: 3}
+  m_Name: 001Pyrophant
+  m_EditorClassIdentifier: 
+  monsterName: Pyrophant
+  monsterImage: {fileID: 6325954557870689732, guid: 95df2345d3f9494458f7e786ab042872,
+    type: 3}
+  monsterAnimator: {fileID: 9100000, guid: 0fce6b99450136741a033a4f600587ee, type: 2}
+  monsterNumber: 1
+  type1: 3
+  type2: 0
+  rarity: 1
+  expGroup: 1
+  learnedTechs: []
+  monsterStats:
+    HPStat: 70
+    StrengthStat: 60
+    MagicStat: 70
+    StaminaStat: 60
+    WillpowerStat: 65
+    IntelligenceStat: 60
+    WisdomStat: 50
+    SpeedStat: 2.5
+  canAscend: 0
+  AscendTo:
+    nextAscension: {fileID: 0}
+    AscensionLevel: 0

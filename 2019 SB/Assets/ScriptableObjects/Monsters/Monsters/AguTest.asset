@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd6044d84b446847ba3a3456cf88df9, type: 3}
+  m_Name: AguTest
+  m_EditorClassIdentifier: 
+  monsterName: Agu
+  monsterImage: {fileID: 21300032, guid: c0431e33abaa6a34580fc6029805a136, type: 3}
+  monsterAnimator: {fileID: 9100000, guid: b15982d3140b414459cb943a6f5459b7, type: 2}
+  monsterNumber: 3
+  type1: 1
+  type2: 5
+  rarity: 1
+  expGroup: 1
+  learnedTechs: []
+  monsterStats:
+    HPStat: 50
+    StrengthStat: 50
+    MagicStat: 60
+    StaminaStat: 50
+    WillpowerStat: 50
+    IntelligenceStat: 50
+    WisdomStat: 50
+    SpeedStat: 2.5
+  canAscend: 0
+  AscendTo:
+    nextAscension: {fileID: 11400000, guid: 8a266c3d543bb9d479727c9beda3ca43, type: 2}
+    AscensionLevel: 25

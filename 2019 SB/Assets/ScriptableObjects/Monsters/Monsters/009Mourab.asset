@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd6044d84b446847ba3a3456cf88df9, type: 3}
+  m_Name: 009Mourab
+  m_EditorClassIdentifier: 
+  monsterName: Mourab
+  monsterImage: {fileID: 2123238345983509415, guid: 31284ae356602a345ad850b43d0936f8,
+    type: 3}
+  monsterAnimator: {fileID: 9100000, guid: 4bebf9eecf9a6bb4d9574a58e2cb356b, type: 2}
+  monsterNumber: 2
+  type1: 1
+  type2: 0
+  rarity: 0
+  expGroup: 1
+  learnedTechs: []
+  monsterStats:
+    HPStat: 60
+    StrengthStat: 70
+    MagicStat: 40
+    StaminaStat: 50
+    WillpowerStat: 50
+    IntelligenceStat: 40
+    WisdomStat: 40
+    SpeedStat: 3
+  canAscend: 0
+  AscendTo:
+    nextAscension: {fileID: 0}
+    AscensionLevel: 0

@@ -1,0 +1,4 @@
+C:\Users\nicho\Documents\2019 SB\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\nicho\Documents\2019 SB\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\GitHub\SoulBeast2020\2019 SB\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\nicho\Documents\GitHub\SoulBeast2020\2019 SB\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

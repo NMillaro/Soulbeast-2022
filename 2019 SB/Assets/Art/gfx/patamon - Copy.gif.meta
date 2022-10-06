@@ -1,0 +1,4495 @@
+fileFormatVersion: 2
+guid: e53f52e6a20e01247807d685e71ad2ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1902947040335080435
+    second: patamon - Copy_0
+  - first:
+      213: 5110103182422351810
+    second: patamon - Copy_1
+  - first:
+      213: 5514310107735555787
+    second: patamon - Copy_2
+  - first:
+      213: -2854720010784109851
+    second: patamon - Copy_3
+  - first:
+      213: 3001100480349729455
+    second: patamon - Copy_4
+  - first:
+      213: 2016845048313690847
+    second: patamon - Copy_5
+  - first:
+      213: -3875272780084176041
+    second: patamon - Copy_6
+  - first:
+      213: 3070155771722557497
+    second: patamon - Copy_7
+  - first:
+      213: -5985730765879640886
+    second: patamon - Copy_8
+  - first:
+      213: 4800435874025326755
+    second: patamon - Copy_9
+  - first:
+      213: -3973008824284644307
+    second: patamon - Copy_10
+  - first:
+      213: 8512821163148253204
+    second: patamon - Copy_11
+  - first:
+      213: 2673804121255351149
+    second: patamon - Copy_12
+  - first:
+      213: -7037787875496306473
+    second: patamon - Copy_13
+  - first:
+      213: 6224870259619315084
+    second: patamon - Copy_14
+  - first:
+      213: 3579797282444352491
+    second: patamon - Copy_15
+  - first:
+      213: -7991662103500888658
+    second: patamon - Copy_16
+  - first:
+      213: 8464925796907209392
+    second: patamon - Copy_17
+  - first:
+      213: -8111733494936625430
+    second: patamon - Copy_18
+  - first:
+      213: 888953315703900235
+    second: patamon - Copy_19
+  - first:
+      213: 8941605718709098296
+    second: patamon - Copy_20
+  - first:
+      213: -3338957024245160114
+    second: patamon - Copy_21
+  - first:
+      213: 6675468881646066065
+    second: patamon - Copy_22
+  - first:
+      213: -1167350338610785878
+    second: patamon - Copy_23
+  - first:
+      213: -2333129165754174321
+    second: patamon - Copy_24
+  - first:
+      213: 6041746088073190286
+    second: patamon - Copy_25
+  - first:
+      213: -6513376197040915355
+    second: patamon - Copy_26
+  - first:
+      213: 4320142424459718801
+    second: patamon - Copy_27
+  - first:
+      213: -4145365225720317690
+    second: patamon - Copy_28
+  - first:
+      213: -6917440777689927739
+    second: patamon - Copy_29
+  - first:
+      213: -2444350782225886477
+    second: patamon - Copy_30
+  - first:
+      213: 2643684439264211125
+    second: patamon - Copy_31
+  - first:
+      213: -1633892357902517676
+    second: patamon - Copy_32
+  - first:
+      213: 4099764302083836230
+    second: patamon - Copy_33
+  - first:
+      213: 2813271553168833812
+    second: patamon - Copy_34
+  - first:
+      213: -5616469437619138388
+    second: patamon - Copy_35
+  - first:
+      213: -1945477325085394554
+    second: patamon - Copy_36
+  - first:
+      213: 6817730640117753589
+    second: patamon - Copy_37
+  - first:
+      213: -4290026546441939446
+    second: patamon - Copy_38
+  - first:
+      213: 5794827647738885703
+    second: patamon - Copy_39
+  - first:
+      213: -8637239091611222576
+    second: patamon - Copy_40
+  - first:
+      213: -2252197823122075283
+    second: patamon - Copy_41
+  - first:
+      213: 2086091808296237791
+    second: patamon - Copy_42
+  - first:
+      213: -651040779685747061
+    second: patamon - Copy_43
+  - first:
+      213: -1473361070183266746
+    second: patamon - Copy_44
+  - first:
+      213: 5477997386488741924
+    second: patamon - Copy_45
+  - first:
+      213: -7430017807581026276
+    second: patamon - Copy_46
+  - first:
+      213: 6621702606147368753
+    second: patamon - Copy_47
+  - first:
+      213: -7885671356487267184
+    second: patamon - Copy_48
+  - first:
+      213: -3271918857973484184
+    second: patamon - Copy_49
+  - first:
+      213: -2222196984738426611
+    second: patamon - Copy_50
+  - first:
+      213: 2779374497932818398
+    second: patamon - Copy_51
+  - first:
+      213: -8576321332749905205
+    second: patamon - Copy_52
+  - first:
+      213: -5686777989058031051
+    second: patamon - Copy_53
+  - first:
+      213: 2573030580425182127
+    second: patamon - Copy_54
+  - first:
+      213: -1200608703387825145
+    second: patamon - Copy_55
+  - first:
+      213: 12756396629592689
+    second: patamon - Copy_56
+  - first:
+      213: -496803328265361691
+    second: patamon - Copy_57
+  - first:
+      213: -8825893672989349017
+    second: patamon - Copy_58
+  - first:
+      213: 1262475051674072764
+    second: patamon - Copy_59
+  - first:
+      213: -138616721350353011
+    second: patamon - Copy_60
+  - first:
+      213: 401697024802710131
+    second: patamon - Copy_61
+  - first:
+      213: 6267068240338396688
+    second: patamon - Copy_62
+  - first:
+      213: -7264324717052101562
+    second: patamon - Copy_63
+  - first:
+      213: -2797354268858335364
+    second: patamon - Copy_64
+  - first:
+      213: 2073230658701777109
+    second: patamon - Copy_65
+  - first:
+      213: -8422627797186665572
+    second: patamon - Copy_66
+  - first:
+      213: -6143754758900834285
+    second: patamon - Copy_67
+  - first:
+      213: 8823867603358145822
+    second: patamon - Copy_68
+  - first:
+      213: 2576497319789946687
+    second: patamon - Copy_69
+  - first:
+      213: 3743665957281514899
+    second: patamon - Copy_70
+  - first:
+      213: -247156891829755462
+    second: patamon - Copy_71
+  - first:
+      213: -1109642210859102997
+    second: patamon - Copy_72
+  - first:
+      213: 3696617582449208011
+    second: patamon - Copy_73
+  - first:
+      213: -3059696902879154020
+    second: patamon - Copy_74
+  - first:
+      213: 427126212838779792
+    second: patamon - Copy_75
+  - first:
+      213: 579798422471704319
+    second: patamon - Copy_76
+  - first:
+      213: -2910965130519599951
+    second: patamon - Copy_77
+  - first:
+      213: -3381729122546028248
+    second: patamon - Copy_78
+  - first:
+      213: -3153738569578582819
+    second: patamon - Copy_79
+  - first:
+      213: 536619232783224582
+    second: patamon - Copy_80
+  - first:
+      213: 1942718590370939102
+    second: patamon - Copy_81
+  - first:
+      213: -938150195594749794
+    second: patamon - Copy_82
+  - first:
+      213: -4474693615172390562
+    second: patamon - Copy_83
+  - first:
+      213: -3479792863405767475
+    second: patamon - Copy_84
+  - first:
+      213: -4553323768283374249
+    second: patamon - Copy_85
+  - first:
+      213: -2948047901036681672
+    second: patamon - Copy_86
+  - first:
+      213: 2406193253279056623
+    second: patamon - Copy_87
+  - first:
+      213: -5404342666420322257
+    second: patamon - Copy_88
+  - first:
+      213: -3357078198741819353
+    second: patamon - Copy_89
+  - first:
+      213: -8376842202579669807
+    second: patamon - Copy_90
+  - first:
+      213: 2055496870216922513
+    second: patamon - Copy_91
+  - first:
+      213: 6740885032734499742
+    second: patamon - Copy_92
+  - first:
+      213: 3463328701620657707
+    second: patamon - Copy_93
+  - first:
+      213: -5520380744126139802
+    second: patamon - Copy_94
+  - first:
+      213: -7622096216276803117
+    second: patamon - Copy_95
+  - first:
+      213: 198146807418107743
+    second: patamon - Copy_96
+  - first:
+      213: 9190016288300178310
+    second: patamon - Copy_97
+  - first:
+      213: -2533790833541569633
+    second: patamon - Copy_98
+  - first:
+      213: -5980508389159011337
+    second: patamon - Copy_99
+  - first:
+      213: -4533385576014518810
+    second: patamon - Copy_100
+  - first:
+      213: 1210101676570665377
+    second: patamon - Copy_101
+  - first:
+      213: -5804139035865084427
+    second: patamon - Copy_102
+  - first:
+      213: 3168156324537774166
+    second: patamon - Copy_103
+  - first:
+      213: 2839613087267129818
+    second: patamon - Copy_104
+  - first:
+      213: 5536123695009111293
+    second: patamon - Copy_105
+  - first:
+      213: 8292886518994693855
+    second: patamon - Copy_106
+  - first:
+      213: 7721098589760178163
+    second: patamon - Copy_107
+  - first:
+      213: -7414650026918851204
+    second: patamon - Copy_108
+  - first:
+      213: -2386731405259897947
+    second: patamon - Copy_109
+  - first:
+      213: 543700028749665336
+    second: patamon - Copy_110
+  - first:
+      213: -2071158119113247675
+    second: patamon - Copy_111
+  - first:
+      213: 7917516553558924527
+    second: patamon - Copy_112
+  - first:
+      213: -4780416910729836906
+    second: patamon - Copy_113
+  - first:
+      213: -2469741112289386140
+    second: patamon - Copy_114
+  - first:
+      213: 6476519242803092998
+    second: patamon - Copy_115
+  - first:
+      213: -4173723926690950475
+    second: patamon - Copy_116
+  - first:
+      213: 4525737301130575982
+    second: patamon - Copy_117
+  - first:
+      213: -5428702413533613539
+    second: patamon - Copy_118
+  - first:
+      213: 5164663076027098938
+    second: patamon - Copy_119
+  - first:
+      213: 4236421161404716105
+    second: patamon - Copy_120
+  - first:
+      213: -5286579016346018129
+    second: patamon - Copy_121
+  - first:
+      213: -4341558318575064757
+    second: patamon - Copy_122
+  - first:
+      213: -2772330921474367569
+    second: patamon - Copy_123
+  - first:
+      213: -6819112843894081139
+    second: patamon - Copy_124
+  - first:
+      213: -7207946364769360539
+    second: patamon - Copy_125
+  - first:
+      213: 1090488725306711223
+    second: patamon - Copy_126
+  - first:
+      213: -4008512473738072838
+    second: patamon - Copy_127
+  - first:
+      213: 7501506985005156775
+    second: patamon - Copy_128
+  - first:
+      213: -1328583238377474386
+    second: patamon - Copy_129
+  - first:
+      213: 6079634999734334311
+    second: patamon - Copy_130
+  - first:
+      213: 1283098034335906812
+    second: patamon - Copy_131
+  - first:
+      213: 1848331560013603189
+    second: patamon - Copy_132
+  - first:
+      213: 2269760261823139602
+    second: patamon - Copy_133
+  - first:
+      213: 8044316943210058445
+    second: patamon - Copy_134
+  - first:
+      213: 2007126070636172437
+    second: patamon - Copy_135
+  - first:
+      213: 3966707360800535606
+    second: patamon - Copy_136
+  - first:
+      213: -1275485918220484367
+    second: patamon - Copy_137
+  - first:
+      213: -5043737027920151016
+    second: patamon - Copy_138
+  - first:
+      213: 4646747011955297827
+    second: patamon - Copy_139
+  - first:
+      213: 6516845459044522058
+    second: patamon - Copy_140
+  - first:
+      213: -6802384861243706260
+    second: patamon - Copy_141
+  - first:
+      213: -1885106210085193075
+    second: patamon - Copy_142
+  - first:
+      213: -8680966438382878199
+    second: patamon - Copy_143
+  - first:
+      213: -7135074541612578979
+    second: patamon - Copy_144
+  - first:
+      213: 7969488752220458216
+    second: patamon - Copy_145
+  - first:
+      213: -4174005945773948151
+    second: patamon - Copy_146
+  - first:
+      213: 981136571261117748
+    second: patamon - Copy_147
+  - first:
+      213: -6092446361671893175
+    second: patamon - Copy_148
+  - first:
+      213: 8493906222272068600
+    second: patamon - Copy_149
+  - first:
+      213: -1699529201872662817
+    second: patamon - Copy_150
+  - first:
+      213: 1518670104420507481
+    second: patamon - Copy_151
+  - first:
+      213: 8908247753921691379
+    second: patamon - Copy_152
+  - first:
+      213: 5874940252634940917
+    second: patamon - Copy_153
+  - first:
+      213: 5113004370925729690
+    second: patamon - Copy_154
+  - first:
+      213: 684465101555595751
+    second: patamon - Copy_155
+  - first:
+      213: 938849730350099546
+    second: patamon - Copy_156
+  - first:
+      213: 1786545138240342784
+    second: patamon - Copy_157
+  - first:
+      213: 6979546224653623540
+    second: patamon - Copy_158
+  - first:
+      213: 3914697956463844633
+    second: patamon - Copy_159
+  - first:
+      213: 7606856253283018641
+    second: patamon - Copy_160
+  - first:
+      213: 6896132871299439042
+    second: patamon - Copy_161
+  - first:
+      213: 7658322945302940593
+    second: patamon - Copy_162
+  - first:
+      213: -5008563802403203403
+    second: patamon - Copy_163
+  - first:
+      213: 7764758327528432617
+    second: patamon - Copy_164
+  - first:
+      213: 7618765508580915539
+    second: patamon - Copy_165
+  - first:
+      213: -8824705307699823198
+    second: patamon - Copy_166
+  - first:
+      213: 156551193328171835
+    second: patamon - Copy_167
+  - first:
+      213: 5285057808464410774
+    second: patamon - Copy_168
+  - first:
+      213: -4489335586117340195
+    second: patamon - Copy_169
+  - first:
+      213: 6826123245657351492
+    second: patamon - Copy_170
+  - first:
+      213: -771080773026646923
+    second: patamon - Copy_171
+  - first:
+      213: 2695151074092904467
+    second: patamon - Copy_172
+  - first:
+      213: 3024313733457445016
+    second: patamon - Copy_173
+  - first:
+      213: -3204516842030715259
+    second: patamon - Copy_174
+  - first:
+      213: -6801748767162953433
+    second: patamon - Copy_175
+  - first:
+      213: 6995414197988012786
+    second: patamon - Copy_176
+  - first:
+      213: -8663651825091640940
+    second: patamon - Copy_177
+  - first:
+      213: -601939899327688034
+    second: patamon - Copy_178
+  - first:
+      213: -7623607955741417530
+    second: patamon - Copy_179
+  - first:
+      213: -5069588509071689480
+    second: patamon - Copy_180
+  - first:
+      213: 7177233515051020441
+    second: patamon - Copy_181
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patamon - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 199
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333e50e046133f499803c38df023fb1
+      internalID: 1902947040335080435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 194
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c997def96049c9429b4116fdb9acc58
+      internalID: 5110103182422351810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ec7162e6cb874b9d88f92bc991e58
+      internalID: 5514310107735555787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 202
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649bbe7c6fb0f0243bad4c9f911d2096
+      internalID: -2854720010784109851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4605c491e1ff439a4ecfc50edf9c1
+      internalID: 3001100480349729455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 202
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd72c9c7ad4e942be442ba11d060eb
+      internalID: 2016845048313690847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 202
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e746266d3bd4c2448adc8f4917e8fd1
+      internalID: -3875272780084176041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e52f4eb681624c963fffaeabc536d
+      internalID: 3070155771722557497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 203
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7c75ed95069a438276bee25005838
+      internalID: -5985730765879640886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a754a7509f374f8d9f262c6ab976e
+      internalID: 4800435874025326755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 203
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff7d57029738d4595549affe395d08
+      internalID: -3973008824284644307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 201
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ee11e4ee3af04383ee0159525c467
+      internalID: 8512821163148253204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca5c1257da55c645b8fa51971117073
+      internalID: 2673804121255351149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 203
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882bfb679353754ab06cf695cdfd405
+      internalID: -7037787875496306473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 203
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c45508fe29d5146b17b0b132b02e5c
+      internalID: 6224870259619315084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 203
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6e98d9db587e44a04e101e11f6524
+      internalID: 3579797282444352491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 200
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d12719f5cbdca45a4178e171cebbf7
+      internalID: -7991662103500888658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 203
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0963f7a90d20a4a91ebf9060ccd56d
+      internalID: 8464925796907209392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 203
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97da1e442f89364581f44914e30ac7b
+      internalID: -8111733494936625430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607a37188641d447ada5d19a67adac8
+      internalID: 888953315703900235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 202
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be382ca8045a2dd4183c9e06f38e753b
+      internalID: 8941605718709098296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 198
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3baaec569503240a7f267bed248f8e
+      internalID: -3338957024245160114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 203
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2687d856d22f3b40bc428bb684af8f8
+      internalID: 6675468881646066065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd64b5fad7bdc9748af18b6fb506d9ad
+      internalID: -1167350338610785878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 203
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32e695e24a72541a705221a443129f
+      internalID: -2333129165754174321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b3e898b6ec1f42820b56aec100b57
+      internalID: 6041746088073190286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004e83ec5dd732448f78cc02e86a032
+      internalID: -6513376197040915355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c32f8193caa4e45bfbe1636a478da4
+      internalID: 4320142424459718801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c08e2975546446b50fb99439d7ac0
+      internalID: -4145365225720317690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c731748fe6cb4a86a56d038e650d5
+      internalID: -6917440777689927739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc6c604f71a664daceff3461c37521
+      internalID: -2444350782225886477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 162
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338979f2ad2794a42ba9c0b6be552280
+      internalID: 2643684439264211125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a58bc48cd8d14285971aad9c792c2
+      internalID: -1633892357902517676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11234d1184aaaf640a2de6f3e883ea76
+      internalID: 4099764302083836230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 162
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78c267140b6e442af57a79020b453e
+      internalID: 2813271553168833812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcdfa18d9a16b41af6129766f8d195
+      internalID: -5616469437619138388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0fab5bbaf11a48a1d292caeb6c263
+      internalID: -1945477325085394554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f70ec437c613747811ea30c501bf92
+      internalID: 6817730640117753589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835456a98f5797242b625c563e064c2a
+      internalID: -4290026546441939446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b80fe8a08b47408ff65842db48ac4
+      internalID: 5794827647738885703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 161
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f77006fd5601e46a091e9b7814fce9
+      internalID: -8637239091611222576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 160
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137299e6a70833844a3d37d09318c5f2
+      internalID: -2252197823122075283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 160
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6545e77268f0804e9ee0e587a32747c
+      internalID: 2086091808296237791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d3784638dff54aa94a182612f7179
+      internalID: -651040779685747061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8c35fec886184b974ba5ad0047234
+      internalID: -1473361070183266746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1a0a2590b15241b99d22d764fff1e
+      internalID: 5477997386488741924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddae8b14451695d40b328de6d9eec0a2
+      internalID: -7430017807581026276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d9074e94e4884e80eae04d4e04dc8
+      internalID: 6621702606147368753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d0183be335954b8c22928a41302a0
+      internalID: -7885671356487267184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 133
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f281020d083df34cafff41e788c10fd
+      internalID: -3271918857973484184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 133
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd763b142e860a41a44ecf6ac28733c
+      internalID: -2222196984738426611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390f32918e9c6a4bacd22f66fe0a083
+      internalID: 2779374497932818398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 133
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b205ce2e8506f34181817ea8c739446
+      internalID: -8576321332749905205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0bdc488d2a1f14f927b5e275e94763
+      internalID: -5686777989058031051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655db94d9728a145902d6c9ef6f4fd5
+      internalID: 2573030580425182127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 134
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe37c4f6de86aec488a2711511736508
+      internalID: -1200608703387825145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b4e43d0a902145aa4f5a1a1789625
+      internalID: 12756396629592689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb8384dbf247a42bbd39b16896a25d
+      internalID: -496803328265361691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 134
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6792f13da93229b4fa697d201a9a5b8c
+      internalID: -8825893672989349017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 134
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86d7f83e25c604aa594eb21c789520
+      internalID: 1262475051674072764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 134
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85dd8ab9c6f764fbc5b3837e9db924
+      internalID: -138616721350353011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ade409f82357564c885341403ee9684
+      internalID: 401697024802710131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99832aa08d583af40982a0aa674bb945
+      internalID: 6267068240338396688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71be46b8eb7e784db66a4d34076e403
+      internalID: -7264324717052101562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d17ba8484ec0489d1feacb15b4e0f
+      internalID: -2797354268858335364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813005c998166a14dbd64980f0caf778
+      internalID: 2073230658701777109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e12b9c128eea42a1b555d5a944a29
+      internalID: -8422627797186665572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e6dabba2c2244a960cc6bac158acc
+      internalID: -6143754758900834285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7994b2b7131394d9d58c1eec2418b8
+      internalID: 8823867603358145822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb45883de6fdec4daf5001ca33277d1
+      internalID: 2576497319789946687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea40cb397f2bb459aabb44c944b770
+      internalID: 3743665957281514899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adcfcde9c8c50e4c976851221e66a37
+      internalID: -247156891829755462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 119
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5501e129120404591022747f22c75b
+      internalID: -1109642210859102997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d403f751e3857f47becc2a72d3693fb
+      internalID: 3696617582449208011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f97604b36fb84da4ab3d800ad0ae7
+      internalID: -3059696902879154020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 119
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d20814b619c55408207542ac6b1a80
+      internalID: 427126212838779792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28a02d806379e347b0312fc4e353ba0
+      internalID: 579798422471704319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 99
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c6d488b804ab4fafe92d162bbbbe3
+      internalID: -2910965130519599951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce039d42bf5824a85cae64e2236895
+      internalID: -3381729122546028248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c364f77f50234da8d05263f035ace
+      internalID: -3153738569578582819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 99
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8bb013be8071b4a830b202e0cf9a18
+      internalID: 536619232783224582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703389b6e95668f42a580942efb7c90a
+      internalID: 1942718590370939102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab6f509dd476f4c9ea5e740493c208
+      internalID: -938150195594749794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_83
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 99
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d12479182897f438e1ea7490a2c3d9
+      internalID: -4474693615172390562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 106
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec50a307f8fefb448031f7974acaebc
+      internalID: -3479792863405767475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78881007f51610c4cae0e4c7a7789c18
+      internalID: -4553323768283374249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f77dd6a00210349a03d2517ff2954f
+      internalID: -2948047901036681672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13afd5bb4b603524b9ae34e942fd326b
+      internalID: 2406193253279056623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 106
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a9c8641b2e4b4280f8147d3d8ed93
+      internalID: -5404342666420322257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf4f4cd25574f448300269bf4e84c2
+      internalID: -3357078198741819353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c526f84b612db842a94f8d301ab0cb3
+      internalID: -8376842202579669807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eaca65b707fa645bf5c56a047218c3
+      internalID: 2055496870216922513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_92
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 106
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8892b60602ca644b8cb9d5546424a36
+      internalID: 6740885032734499742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00447c320ce5331459d0c04d64982d3b
+      internalID: 3463328701620657707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_94
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 96
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349cb82460b8549469a1b7214fc7c1cc
+      internalID: -5520380744126139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_95
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 99
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d819df00bf3df4ea9dd39ae3f473a9
+      internalID: -7622096216276803117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_96
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 98
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d037d1a556bb243a1d332be7e11368
+      internalID: 198146807418107743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 94
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c81acb0c3c54f4b829bf93e85498b8
+      internalID: 9190016288300178310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_98
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b957ef153719144b0e8572c3dd0c51
+      internalID: -2533790833541569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_99
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb48744c23f2c47a4e87601aeea063
+      internalID: -5980508389159011337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_100
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab59eb92c5abf419c21634fbad1a9b
+      internalID: -4533385576014518810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_101
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1e03166cfbc642a24980c90a9b023
+      internalID: 1210101676570665377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_102
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2746ef8ab78742a8f986b43c381ae
+      internalID: -5804139035865084427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_103
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0b39ad494f1d4dbc48a413f7cbb9b
+      internalID: 3168156324537774166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_104
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 66
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0183bd2e5d6f4d963022075ec5f37
+      internalID: 2839613087267129818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1ed1fb056b5f49a14922568b1b36e
+      internalID: 5536123695009111293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_106
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 66
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe6e8131b89c847b09ffe680f69e07
+      internalID: 8292886518994693855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0d966e88dbfd4b92199d95e490ece
+      internalID: 7721098589760178163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_108
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c4dec1c19b74849aff36bed2395cc8
+      internalID: -7414650026918851204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98b03fdbc783f4399ae2f89173b24a
+      internalID: -2386731405259897947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_110
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 58
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b41ea7aa150e84789a6298ce4db83b
+      internalID: 543700028749665336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 66
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a03a924e7175488dedcf5cfa40603
+      internalID: -2071158119113247675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fecc54e876c144981a25657424a49
+      internalID: 7917516553558924527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_113
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c24a8840b21e4d983af8a53dee717
+      internalID: -4780416910729836906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_114
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 66
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0838eb3c5c9aa409676d2275f926ae
+      internalID: -2469741112289386140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42694d50e63d0439614b8c355699d9
+      internalID: 6476519242803092998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 66
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b5503ca3fb0c46a54109b01e120e7
+      internalID: -4173723926690950475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_117
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4727ccf35edd22a4f9b6c2687985bf3d
+      internalID: 4525737301130575982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_118
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 66
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3a21bf426bcd4387213d2df35ad2c
+      internalID: -5428702413533613539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_119
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 66
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d76b744bf78b46b70a373e090b7a1
+      internalID: 5164663076027098938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_120
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a9d7614796aa4b9f9a6b25eef6d09
+      internalID: 4236421161404716105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_121
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 66
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b7ed0c7e6a004a8b28f379e3c5981
+      internalID: -5286579016346018129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_122
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba0c1072d913b44ba461f187977335
+      internalID: -4341558318575064757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_123
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 66
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0985369900e840958c40476de9598
+      internalID: -2772330921474367569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cffba146e07db449ead11fb9a395b4
+      internalID: -6819112843894081139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47604a92a07e6d7438a0fffce0843eaf
+      internalID: -7207946364769360539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_126
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 33
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf026b3833c1f4f9b939648dc3c688
+      internalID: 1090488725306711223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_127
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 33
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22055096ba8fb5844bc1b6c0f7509983
+      internalID: -4008512473738072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_128
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc35c71dd71a9b040a6ae734fee76995
+      internalID: 7501506985005156775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_129
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d00e2edd09afe4ebd4eb35396dc87b
+      internalID: -1328583238377474386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_130
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a98536ad4d844a84d517d8b29e2b2
+      internalID: 6079634999734334311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_131
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 33
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cb691af747f64b8f367184bf5751f
+      internalID: 1283098034335906812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_132
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 33
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a499d2aed6e4e14395eb00aed73348a
+      internalID: 1848331560013603189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_133
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826dd4191e6e7a4fb16b100652730bb
+      internalID: 2269760261823139602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_134
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 33
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641805d56b4d4d498d74f5f4b7983ff
+      internalID: 8044316943210058445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_135
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 33
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c10fa44ab1fa54ca08134cc0fc081a
+      internalID: 2007126070636172437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_136
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a5bb5ca92e514792a92455875d728
+      internalID: 3966707360800535606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_137
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 33
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15a2f8d386e9747a493bd6fe5d3126
+      internalID: -1275485918220484367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 33
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759ce2af53a5df498c51028a3bdf279
+      internalID: -5043737027920151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_139
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fdf404a3bbf7e449835d8646603df4
+      internalID: 4646747011955297827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_140
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 33
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13807fa48cb94746ad48199d1a01735
+      internalID: 6516845459044522058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_141
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c4bc9d98fb39b4385d63f2f6f357b6
+      internalID: -6802384861243706260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_142
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 33
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4353e456072f4ea4292ca2c9ef1c4
+      internalID: -1885106210085193075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_143
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353be4049bb9f1a4b812053f41d2bf85
+      internalID: -8680966438382878199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_144
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e25e16db9fe14fbd8dbfdf465c95c
+      internalID: -7135074541612578979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_145
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bb370458db62245a8b0a6efc678307
+      internalID: 7969488752220458216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_146
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e851f96c230294ab6511b41b49bf44
+      internalID: -4174005945773948151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_147
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7355f6323af700448873340fc22f4dd
+      internalID: 981136571261117748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967d3979d54a56418d8189d3fb28231
+      internalID: -6092446361671893175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111980af78739f44b63d4d70c6e462d
+      internalID: 8493906222272068600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_150
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130dfecc41f2444458eb1823e6f1041d
+      internalID: -1699529201872662817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_151
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b038bdf2359d5d3419ac3d029f2ec98d
+      internalID: 1518670104420507481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_152
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f4542c19e38d147b15bc472c35af05
+      internalID: 8908247753921691379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_153
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbd56f6b37eef4eab2b10fe508d577
+      internalID: 5874940252634940917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_154
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf16cdaec34b4479a3a22c19c3ea40
+      internalID: 5113004370925729690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_155
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bae69b560536943a2c47b23418b4a2
+      internalID: 684465101555595751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_156
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36b508fb0e4044c9bdbe03656a1a2e
+      internalID: 938849730350099546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_157
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730c489ce18467468fe87c40e491e86
+      internalID: 1786545138240342784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_158
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b66734b46045748b1dca13932d6f1a
+      internalID: 6979546224653623540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_159
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462f89dca0e39e4f8fcc8fc6ff1ae0a
+      internalID: 3914697956463844633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6733cfc0374cd264d80bec5b41ae01e5
+      internalID: 7606856253283018641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_161
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10747b4bc8a6ec41b063c10fb8fbffe
+      internalID: 6896132871299439042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_162
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c532fc21682c4d043abdf0a861b1ea38
+      internalID: 7658322945302940593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_163
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41bb54bb9938246ab36cb4b2f98c38
+      internalID: -5008563802403203403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_164
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963487205e381048985620d041f4c4d
+      internalID: 7764758327528432617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_165
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d52cbdd55ae6c4dbb63cbba9b437ca
+      internalID: 7618765508580915539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_166
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c267c596b058d54581b53270833c977
+      internalID: -8824705307699823198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_167
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f33af4aa4dc1347bdcd11fbd67c2e4
+      internalID: 156551193328171835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3ec56e59319f4298ee2a049035a5d
+      internalID: 5285057808464410774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_169
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5386e60bbb327478a31233f0a8784c
+      internalID: -4489335586117340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_170
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d95581d058c6d4684ea697c963ba14
+      internalID: 6826123245657351492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_171
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee3bfa5667f7e44aba1b6b2a108de0
+      internalID: -771080773026646923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_172
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe8394bc2fc854bb4fa8697b3aac8b
+      internalID: 2695151074092904467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_173
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669db28db74fb0b4a8340b3c0a9e3324
+      internalID: 3024313733457445016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_174
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e10906d54016248b98728699885dd0
+      internalID: -3204516842030715259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_175
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e4f5d5af11f1049a4a73ff76afae10
+      internalID: -6801748767162953433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_176
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1be2571a9896e489935428fff12eff
+      internalID: 6995414197988012786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_177
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa3015cbccd444e8c63e323d983ba0
+      internalID: -8663651825091640940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_178
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56e19846141404fad864a11ada7d60
+      internalID: -601939899327688034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_179
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1670e77d5ef74686c7f399e1dc123
+      internalID: -7623607955741417530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_180
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf8caa22fbd48479463dd6c9ea431b
+      internalID: -5069588509071689480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patamon - Copy_181
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499c73782663e1448d3a15cf2301ed7
+      internalID: 7177233515051020441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

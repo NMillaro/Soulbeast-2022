@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd6044d84b446847ba3a3456cf88df9, type: 3}
+  m_Name: NewTest
+  m_EditorClassIdentifier: 
+  monsterName: Pata
+  monsterImage: {fileID: -3973008824284644307, guid: e53f52e6a20e01247807d685e71ad2ad,
+    type: 3}
+  monsterAnimator: {fileID: 9100000, guid: 18cc47f6fcae4f54280195a7e566928f, type: 2}
+  monsterNumber: 2
+  type1: 2
+  type2: 4
+  rarity: 1
+  expGroup: 1
+  learnedTechs: []
+  monsterStats:
+    HPStat: 60
+    StrengthStat: 50
+    MagicStat: 60
+    StaminaStat: 50
+    WillpowerStat: 50
+    IntelligenceStat: 50
+    WisdomStat: 50
+    SpeedStat: 2.5
+  canAscend: 0
+  AscendTo:
+    nextAscension: {fileID: 0}
+    AscensionLevel: 0
